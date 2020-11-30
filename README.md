@@ -1,6 +1,6 @@
 # SQL
 
-### コマンド
+### コマンド(mysql)
 - mysqlインストール : brew install mysql
 
 - mysqlバージョン確認 : mysql --version
